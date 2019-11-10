@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d89d6770-f139-45d2-95d4-fc6ea210e0b1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1RNdgyNlyUOOrXEENVhyVOuar7n" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../flink/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="ScalaTest.StudentTest.Assert RDD assignment 9 (1)">
+    <configuration name="StudentTest.Assert RDD assignment 5" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="spark" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="RDDAssignment.StudentTest" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Users\kevin\Documents\Werkmap\TU DELFT\CSE\Jaar 2 2019-2020\Q1 september-\Big Data Processing CSE2520\spark" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest.Assert RDD assignment 8" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="spark" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="RDDAssignment.StudentTest" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Users\kevin\Documents\Werkmap\TU DELFT\CSE\Jaar 2 2019-2020\Q1 september-\Big Data Processing CSE2520\spark" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest.Assert RDD assignment 9 (1)" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="spark" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="RDDAssignment.StudentTest" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Users\kevin\Documents\Werkmap\TU DELFT\CSE\Jaar 2 2019-2020\Q1 september-\Big Data Processing CSE2520\spark" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest.Assert RDD assignment 9" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="spark" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="RDDAssignment.StudentTest" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Users\kevin\Documents\Werkmap\TU DELFT\CSE\Jaar 2 2019-2020\Q1 september-\Big Data Processing CSE2520\spark" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest.asser 7" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="spark" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="DataFrameAssignment.StudentTest" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Users\kevin\Documents\Werkmap\TU DELFT\CSE\Jaar 2 2019-2020\Q1 september-\Big Data Processing CSE2520\spark" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="ScalaTest.StudentTest.Assert RDD assignment 9 (1)" />
+        <item itemvalue="ScalaTest.StudentTest.Assert RDD assignment 9" />
+        <item itemvalue="ScalaTest.StudentTest.asser 7" />
+        <item itemvalue="ScalaTest.StudentTest.Assert RDD assignment 8" />
+        <item itemvalue="ScalaTest.StudentTest.Assert RDD assignment 5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d89d6770-f139-45d2-95d4-fc6ea210e0b1" name="Default Changelist" comment="" />
+      <created>1569436180209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569436180209</updated>
+      <workItem from="1569436181416" duration="942000" />
+      <workItem from="1569480825533" duration="15601000" />
+      <workItem from="1569510904347" duration="94000" />
+      <workItem from="1569511610590" duration="398000" />
+      <workItem from="1569512041131" duration="335000" />
+      <workItem from="1569584618743" duration="725000" />
+      <workItem from="1569597382892" duration="117000" />
+      <workItem from="1569605531573" duration="607000" />
+      <workItem from="1569698241596" duration="16000" />
+      <workItem from="1569760886291" duration="8254000" />
+      <workItem from="1569841659047" duration="5143000" />
+      <workItem from="1569865831994" duration="5621000" />
+      <workItem from="1569915739163" duration="350000" />
+      <workItem from="1569926827132" duration="10980000" />
+      <workItem from="1569962231283" duration="965000" />
+      <workItem from="1570009988565" duration="3720000" />
+      <workItem from="1570036313111" duration="631000" />
+      <workItem from="1570103549558" duration="9532000" />
+      <workItem from="1570131993351" duration="2000" />
+      <workItem from="1570133894981" duration="234000" />
+      <workItem from="1570135141928" duration="593000" />
+      <workItem from="1570136328583" duration="696000" />
+      <workItem from="1570181785585" duration="1973000" />
+      <workItem from="1570190277450" duration="2416000" />
+      <workItem from="1570265495159" duration="607000" />
+      <workItem from="1570272852838" duration="33000" />
+      <workItem from="1570272904422" duration="12280000" />
+      <workItem from="1570352968270" duration="24884000" />
+      <workItem from="1570436743210" duration="9051000" />
+      <workItem from="1570531851024" duration="599000" />
+      <workItem from="1570534645800" duration="2154000" />
+      <workItem from="1570547238529" duration="1800000" />
+      <workItem from="1570549291571" duration="6957000" />
+      <workItem from="1570646974232" duration="3607000" />
+      <workItem from="1570653664896" duration="123000" />
+      <workItem from="1570693642729" duration="3295000" />
+      <workItem from="1570698304967" duration="39000" />
+      <workItem from="1570702216648" duration="131000" />
+      <workItem from="1570703116533" duration="25000" />
+      <workItem from="1570703181134" duration="266000" />
+      <workItem from="1570716305335" duration="409000" />
+      <workItem from="1570721729664" duration="758000" />
+      <workItem from="1570724526004" duration="347000" />
+      <workItem from="1570724886437" duration="115000" />
+      <workItem from="1570774337330" duration="218000" />
+      <workItem from="1570826375943" duration="9000" />
+      <workItem from="1570826609283" duration="633000" />
+      <workItem from="1570880812116" duration="6000" />
+      <workItem from="1570899837435" duration="436000" />
+      <workItem from="1570911818973" duration="1424000" />
+      <workItem from="1570961796909" duration="1330000" />
+      <workItem from="1570969373748" duration="5967000" />
+      <workItem from="1570986958340" duration="599000" />
+      <workItem from="1571001673181" duration="648000" />
+      <workItem from="1571037526867" duration="599000" />
+      <workItem from="1571048171143" duration="998000" />
+      <workItem from="1571050212354" duration="1708000" />
+      <workItem from="1571053934068" duration="1979000" />
+      <workItem from="1571067134744" duration="1198000" />
+      <workItem from="1571138908959" duration="2226000" />
+      <workItem from="1571146186448" duration="20000" />
+      <workItem from="1571152021252" duration="3215000" />
+      <workItem from="1571168188909" duration="695000" />
+      <workItem from="1571176436085" duration="32000" />
+      <workItem from="1571218155803" duration="1004000" />
+      <workItem from="1571220182345" duration="519000" />
+      <workItem from="1571222363287" duration="140000" />
+      <workItem from="1571223663888" duration="703000" />
+      <workItem from="1571228095290" duration="228000" />
+      <workItem from="1571228684694" duration="1059000" />
+      <workItem from="1571230235260" duration="655000" />
+      <workItem from="1571242673654" duration="257000" />
+      <workItem from="1571251389984" duration="733000" />
+      <workItem from="1571383669826" duration="15000" />
+      <workItem from="1571401170457" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

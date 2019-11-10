@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="spark">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Users\kevin\Documents\Werkmap\TU DELFT\CSE\Jaar 2 2019-2020\Q1 september-\Big Data Processing CSE2520\spark\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>
